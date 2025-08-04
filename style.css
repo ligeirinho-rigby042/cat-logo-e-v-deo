@@ -8,3 +8,11 @@ padding: 20px;
 font-size: 32px;
 color: rgb(43, 255, 0);
 }
+
+section {
+background: rgb(57, 179, 41);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
