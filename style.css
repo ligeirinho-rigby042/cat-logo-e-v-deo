@@ -2,7 +2,9 @@ body {
 color: white;
 background: black;
 margin: 0px; }
- header {
+font-family: "Chakra Petch", sans-serif;
+
+header {
 border-bottom: solid 2px rgb(23, 102, 7);
 padding: 20px;
 font-size: 32px;
